@@ -1,1 +1,3 @@
 F:\_git\ProjectRepo_1\_repo\Cpp_1\pr_1\Tgu_1\x64\Debug\Tgu_1.exe
+F:\_git\ProjectRepo_1\_repo\Cpp_1\pr_1\Tgu_1\x64\Debug\Tgu_1.exe.lastcodeanalysissucceeded
+F:\_git\ProjectRepo_1\_repo\Cpp_1\pr_1\Tgu_1\x64\Debug\NativeCodeAnalysis.read.1.tlog
