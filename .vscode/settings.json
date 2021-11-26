@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.man": "markdown",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
